@@ -46,3 +46,10 @@ xdg-open http://127.0.0.1:8080/results.html
 latest results can be viewed [here](https://just-js.github.io/benchmarks/)
 
 - SQLite Benchmark [Results](https://just-js.github.io/benchmarks/02-sqlite.html)
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/benchmarks.git && cd benchmarks
+```
